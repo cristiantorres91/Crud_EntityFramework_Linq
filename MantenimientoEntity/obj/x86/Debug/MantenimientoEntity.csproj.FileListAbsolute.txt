@@ -1,0 +1,46 @@
+c:\documents and settings\cristian\mis documentos\visual studio 2010\Projects\MantenimientoEntity\MantenimientoEntity\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\cristian\mis documentos\visual studio 2010\Projects\MantenimientoEntity\MantenimientoEntity\obj\x86\Debug\MantenimientoEntity.Form1.resources
+c:\documents and settings\cristian\mis documentos\visual studio 2010\Projects\MantenimientoEntity\MantenimientoEntity\obj\x86\Debug\MantenimientoEntity.Properties.Resources.resources
+c:\documents and settings\cristian\mis documentos\visual studio 2010\Projects\MantenimientoEntity\MantenimientoEntity\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\cristian\mis documentos\visual studio 2010\Projects\MantenimientoEntity\MantenimientoEntity\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\cristian\mis documentos\visual studio 2010\Projects\MantenimientoEntity\MantenimientoEntity\bin\Debug\Database.mdf
+c:\documents and settings\cristian\mis documentos\visual studio 2010\Projects\MantenimientoEntity\MantenimientoEntity\bin\Debug\Database_log.ldf
+c:\documents and settings\cristian\mis documentos\visual studio 2010\Projects\MantenimientoEntity\MantenimientoEntity\bin\Debug\MantenimientoEntity.exe
+c:\documents and settings\cristian\mis documentos\visual studio 2010\Projects\MantenimientoEntity\MantenimientoEntity\bin\Debug\MantenimientoEntity.pdb
+c:\documents and settings\cristian\mis documentos\visual studio 2010\Projects\MantenimientoEntity\MantenimientoEntity\bin\Debug\DataAcces.dll
+c:\documents and settings\cristian\mis documentos\visual studio 2010\Projects\MantenimientoEntity\MantenimientoEntity\bin\Debug\DataAcces.pdb
+c:\documents and settings\cristian\mis documentos\visual studio 2010\Projects\MantenimientoEntity\MantenimientoEntity\obj\x86\Debug\MantenimientoEntity.exe
+c:\documents and settings\cristian\mis documentos\visual studio 2010\Projects\MantenimientoEntity\MantenimientoEntity\obj\x86\Debug\MantenimientoEntity.pdb
+c:\documents and settings\cristian\mis documentos\visual studio 2010\Projects\MantenimientoEntity\MantenimientoEntity\bin\Debug\MantenimientoEntity.exe.config
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntity\MantenimientoEntity\bin\Debug\MantenimientoEntity.exe.config
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntity\MantenimientoEntity\obj\x86\Debug\MantenimientoEntity.exe
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntity\MantenimientoEntity\obj\x86\Debug\MantenimientoEntity.pdb
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntity\MantenimientoEntity\bin\Debug\MantenimientoEntity.exe
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntity\MantenimientoEntity\bin\Debug\MantenimientoEntity.pdb
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntity\MantenimientoEntity\bin\Debug\DataAcces.dll
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntity\MantenimientoEntity\bin\Debug\DataAcces.pdb
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntity\MantenimientoEntity\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntity\MantenimientoEntity\obj\x86\Debug\MantenimientoEntity.Form1.resources
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntity\MantenimientoEntity\obj\x86\Debug\MantenimientoEntity.Properties.Resources.resources
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntity\MantenimientoEntity\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntity\MantenimientoEntity\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntity\MantenimientoEntity\obj\x86\Debug\MantenimientoEntity.Form2.resources
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntity\MantenimientoEntity\bin\Debug\Database.mdf
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntity\MantenimientoEntity\bin\Debug\Database_log.ldf
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntity\MantenimientoEntity\obj\x86\Debug\MantenimientoEntity.Form3.resources
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntityC#\MantenimientoEntity\bin\Debug\MantenimientoEntity.exe.config
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntityC#\MantenimientoEntity\obj\x86\Debug\MantenimientoEntity.exe
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntityC#\MantenimientoEntity\obj\x86\Debug\MantenimientoEntity.pdb
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntityC#\MantenimientoEntity\bin\Debug\Database.mdf
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntityC#\MantenimientoEntity\bin\Debug\Database_log.ldf
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntityC#\MantenimientoEntity\bin\Debug\MantenimientoEntity.exe
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntityC#\MantenimientoEntity\bin\Debug\MantenimientoEntity.pdb
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntityC#\MantenimientoEntity\bin\Debug\DataAcces.dll
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntityC#\MantenimientoEntity\bin\Debug\DataAcces.pdb
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntityC#\MantenimientoEntity\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntityC#\MantenimientoEntity\obj\x86\Debug\MantenimientoEntity.Form1.resources
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntityC#\MantenimientoEntity\obj\x86\Debug\MantenimientoEntity.Form2.resources
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntityC#\MantenimientoEntity\obj\x86\Debug\MantenimientoEntity.Form3.resources
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntityC#\MantenimientoEntity\obj\x86\Debug\MantenimientoEntity.Properties.Resources.resources
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntityC#\MantenimientoEntity\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Cristian\Mis documentos\programas c#\MantenimientoEntityC#\MantenimientoEntity\obj\x86\Debug\GenerateResource.write.1.tlog
